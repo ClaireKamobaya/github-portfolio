@@ -15,4 +15,9 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 This lab demonstrated the critical importance of proper change management and configuration validation in production environments. A single misconfigured BGP route caused a global outage affecting billions of users, highlighting how infrastructure documentation and rollback procedures are essential security controls. This reinforces why Version Control Systems like Git are industry-standard tools - they provide an audit trail and allow rapid recovery from configuration errors.
 
 ## 📸 Proof of Work
-![GitHub Repository Setup](proof-screenshot.png)
+
+**DevSecOps CI/CD Security Pipeline:**
+![DevSecOps Project Repository](proof-screenshot.png)
+
+**GitHub Portfolio Setup:**
+![GitHub Portfolio Repository](github-portfolio-meta.png)
