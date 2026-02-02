@@ -47,7 +47,7 @@ This repository contains documented lab work and engineering exercises:
 ## 📫 Connect With Me
 
 - GitHub: [@ClaireKamobaya]((https://github.com/ClaireKamobaya))
-- LinkedIn: [Claire Kamobaya]((https://www.linkedin.com/in/claire-kamobaya-b433a6266/)) *(update with your actual LinkedIn)*
+- LinkedIn: [Claire Kamobaya]((https://www.linkedin.com/in/claire-kamobaya-b433a6266/)) *((https://www.linkedin.com/in/claire-kamobaya-b433a6266/))*
 
 ---
 
