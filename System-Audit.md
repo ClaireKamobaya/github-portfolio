@@ -2,9 +2,9 @@
 
 
 
-\*\*Student Name:\*\* Claire Kamobaya
+Claire Kamobaya
 
-\*\*Date:\*\* February 16, 2026
+February 16, 2026
 
 
 
@@ -139,4 +139,5 @@ If Visual Studio Code were compromised through a malicious extension or supply c
 \- \[ ] Committed to GitHub with meaningful message
 
 \- \[ ] Repository link verified
+
 
