@@ -13,6 +13,7 @@ February 16, 2026
 
 
 \## Section 1: System Inventory
+![System Specifications](About.png)
 
 
 
@@ -69,6 +70,7 @@ In a corporate environment, an administrator creates a service account for an au
 
 
 \## Section 3: Top Process Analysis \& Risk
+![Task Manager Processes](step%201%20cpu%20.png)
 
 
 
@@ -139,5 +141,6 @@ If Visual Studio Code were compromised through a malicious extension or supply c
 \- \[ ] Committed to GitHub with meaningful message
 
 \- \[ ] Repository link verified
+
 
 
