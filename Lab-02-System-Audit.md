@@ -126,21 +126,4 @@ If Visual Studio Code were compromised through a malicious extension or supply c
 
 
 
-\## Section 4: Submission Checklist
-
-
-
-\- \[x] File named correctly: System-Audit.md
-
-\- \[x] All sections completed with accurate information
-
-\- \[x] Proper Markdown formatting used
-
-\- \[x] Spell-checked and proofread
-
-\- \[ ] Committed to GitHub with meaningful message
-
-\- \[ ] Repository link verified
-
-
 
